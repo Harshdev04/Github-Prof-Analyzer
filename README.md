@@ -19,6 +19,6 @@ GitHub Profile Analyzer is a sleek and interactive web application designed to f
 6. Click **"View GitHub Profile"** to open the actual profile on GitHub.  
 
 ## **🚀 Live Demo**  
-🔗 [Live Demo]()  
+🔗 [Live Demo](https://harshdev04.github.io/Github-Prof-analyzer/)  
 
 
